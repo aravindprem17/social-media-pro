@@ -65,7 +65,7 @@ uv run main.py
 
 📂 Project Structure
 
-social-media-pro/
+local-agentic-social-architect/
 ├── config/
 │   ├── agents.yaml      # Agent roles and backstories
 │   └── tasks.yaml       # Task definitions
