@@ -34,6 +34,7 @@ Web UI: Streamlit
 Local LLM: Ollama
 
 Environment Manager: uv
+
 📦 Installation & Setup
 1. Prerequisites
 Install Ollama
@@ -48,7 +49,7 @@ ollama pull llama3.1:latest
 git clone https://github.com/[YOUR_GITHUB_USERNAME]/social-media-pro.git
 cd social-media-pro
 
-# Install dependencies including Streamlit using uv
+Install dependencies including Streamlit using uv
 uv sync
 
 3. Run the Application
