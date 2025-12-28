@@ -1,3 +1,9 @@
+Badge Type	Markdown Code
+Privacy	![Privacy](https://img.shields.io/badge/Data_Privacy-100%25_Local-green)
+Hardware	![Hardware](https://img.shields.io/badge/Optimized_for-M1_Mac-blue)
+Framework	![Framework](https://img.shields.io/badge/Built_with-CrewAI-red)
+Engine	![Engine](https://img.shields.io/badge/Powered_by-Ollama-orange)
+
 🤖 Social Media Pro: Private Multi-Agent AI Team
 An autonomous content engine with a web interface, running 100% locally on Apple Silicon.
 
