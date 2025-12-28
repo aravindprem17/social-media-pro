@@ -75,5 +75,20 @@ social-media-pro/
 └── README.md            # Project documentation
 
 
+⚖️ Architecture Comparison: 
+
+Feature	Standard ChatGPT Plus	Social Media Architect Pro (Local)	
+Logic Engine	Single-shot prompt (Generalist)	Multi-Agent Orchestration (Specialists)	
+Data Privacy	Cloud-stored (Training risk)	100% Private (Stays on your M1 Mac)	
+Recurring Cost	$20/month subscription	$0 (Zero API/Subscription fees)	
+Workflow	Linear (Chat interface)	Iterative (Strategy -> Review -> Content)	
+Customization	System instructions (Soft)	Hard-coded Personas (YAML/Python)	
+Inference	Dependent on Server/Internet	Offline-capable (Edge Computing)	
+Brand Control	Variable tone	Strict Voice Enforcement (via Strategist)	
+
+While ChatGPT has a larger knowledge base, Social Media Architect Pro offers 'Architectural Certainty'—ensuring that every output follows a verified strategic framework.
+
+Resource Note: This system is optimized for Unified Memory Architecture, utilizing the Gemma 3 1B model to deliver high-speed inference without the $20/mo overhead of cloud-based competitors.
+
 
 Developed by Aravind Prem https://www.linkedin.com/in/aravindprem/
